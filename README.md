@@ -1,10 +1,5 @@
-#include <Ry_TheBoi/Ry_TheBoi.h>
-#include <iostream>
+Hey there!
 
-int main()
-{
 
-  std::cout<<"Yolo"<<std::endl;
-  std::cout<<"E"<<std::endl;
-
-}
+Just some boi who likes to make his own Game Engine (Ry Engine), games like Vex Dashers, and some other software stuff.
+That's about all.
