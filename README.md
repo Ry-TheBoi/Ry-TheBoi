@@ -1,4 +1,4 @@
-**Hey there!** 👋
+**Hi,** 👋
 
 
 **My name is Ry_TheBoi, you can call me Ry**
